@@ -1,0 +1,10 @@
+1. get_user with valid ID
+2. get_user with invalid ID
+3. search_user with existing name
+4. search_user with non-existing name
+5. get_all_users
+6. empty search input
+7. wrong data type
+8. server startup test
+9. database connection test
+10. MCP client connection test
