@@ -30,7 +30,6 @@ PyJWT==2.13.0
 pytest>=9.0
 python-dotenv==1.2.2
 python-multipart==0.0.29
-pywin32==311
 referencing==0.37.0
 rich==15.0.0
 rpds-py==0.30.0
